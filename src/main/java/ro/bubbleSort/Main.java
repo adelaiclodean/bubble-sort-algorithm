@@ -6,7 +6,7 @@ public class Main {
     /**
      * Function which create an int array, we traverse the array from first
      * @param args are numbers that we want to calculate
-     * @return the value of SalesRepr are the one which sale the most
+     * @return the value of Sales are the one which sale the most
      */
 
     public static void main(String[] args) {
